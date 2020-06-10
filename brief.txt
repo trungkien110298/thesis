@@ -1,0 +1,32 @@
+ 
+1. Tổng quan về tổng hợp tiếng nói và vấn đề đặt ra với đồ án
+1.1. Giới thiệu về tổng hợp tiếng nói
+1.1.1. Định nghĩa và quá trình phát triển tổng hợp tiếng nói
+1.1.2. Ứng dụng của tổng hợp tiếng nói
+1.1.3. Thành phần của tổng hợp tiếng nói
+1.2. Các phương pháp tổng hợp tiếng nói
+1.3. Tình hình phát triển tổng hợp tiếng nói tiếng Việt
+1.4. Giới thiệu về vấn đề chuyển đổi giọng nói
+1.5. Bài toán chuyển đổi tiếng nói tiếng Việt
+
+2. Cơ sở lý thuyết
+2.1. Tổng quan về học sâu
+2.2.1. Giới thiệu về học sâu
+2.2.2. Tổng quan về mạng nơ ron
+2.2. Tổng hợp tiếng nói dựa trên phương pháp học sâu
+2.3. Trích chọn đặc trưng ngôn ngữ
+2.4. Mô hình âm học dựa trên mạng nơ ron học sâu
+2.5. Vocoder
+
+
+3. Phương pháp đề xuất chuyển đổi giọng nói tiếng Việt
+3.1. Mô hình cho quá trình tổng hợp tiếng nói
+
+3.2. Transfer learning
+3.3. Sử dụng vec tơ định danh
+
+4. Thử nghiệm và đánh giá kết quả
+
+5. Kết luận và phương hướng phát triền đồ án
+
+6. Tài liệu tham khảo
